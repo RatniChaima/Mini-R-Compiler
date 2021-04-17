@@ -1,0 +1,20 @@
+INTEGER A1 <- 20
+A2 <- 8
+LOGICAL B
+NUMERIC C1,C2,C3
+A3_res <- A1*A2/2
+#Condition IF ELSE
+IF (A1 = A2)
+{
+BOOL <- true
+}
+ELSE
+{
+BOOL <- false
+}
+#Boucle WHILE
+I <- 2
+WHILE(I < A2)
+{
+I <- I+2
+}
